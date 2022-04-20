@@ -40,6 +40,12 @@ body {
     font-weight: bold;
 }
 
+#title {
+    font-weight: bold;
+    font-size: 38px;
+    color: #f53333;
+}
+
 #sidecontainerTitle {
     font-weight: bolder;
     text-align: center;
