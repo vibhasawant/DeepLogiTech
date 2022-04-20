@@ -1,0 +1,66 @@
+{
+	"getTimeStories" : [
+	{
+		"title": "Amy Schneider's Jeopardy! Streak Ends at 40 Consecutive Wins and $1.4 Million",
+		"link": "https://time.com/6142934/amy-schneider-jeopardy-streak-ends/",
+		"date": "February 14, 2022",
+		"time": "11:43 PM IST"
+	},
+	{
+		"title": "Writing With Fire' Shines a Light on All-Women News Outlet",
+		"link": "https://time.com/6142628/writing-with-fire-india-documentary/",
+		"date": "February 14, 2022",
+		"time": "04:43 AM IST"
+	},
+	{
+		"title": "Moderna Booster May Wane After 6 Months",
+		"link": "https://time.com/6142852/moderna-booster-wanes-omicron/",
+		"date": "January 28, 2022",
+		"time": "06:43 AM IST"
+	},
+	{
+		"title": "Pressure Mounts for Biden to Nominate a Black Woman to the Supreme",
+		"link": "https://time.com/6142743/joe-biden-supreme-court-nominee-black-woman-compaign-promise/",
+		"date": "January 20, 2022",
+		"time": "05:43 PM IST"
+	},
+	{
+		"title": "The James Webb Space Telescope Is in Position - And Now We Wait",
+		"link": "https://time.com/6142769/james-webb-space-telescope-reaches-plan/",
+		"date": "January 15, 2022",
+		"time": "11:43 AM IST"
+	},
+	{
+		"title": "We Urgently Need a New National COVID-19 Response Plan",
+		"link": "https://time.com/6142718/we-need-new-national-covid-19-response-plan/",
+		"date": "January 10, 2022",
+		"time": "01:43 PM IST"
+	}
+	],
+	"getmainData" : [
+		{
+			"name": "Anatol Lieven",
+			"desc": "Russia Has Been Warning the West About Ukraine for Decades"
+		},
+		{
+			"name": "Yohanca Delgado",
+			"desc": "The Life-Changing Practice That Will Help You Feel More Gratitude"
+		},
+		{
+			"name": "Ismat Ara",
+			"desc": "How It Feels to Be a Muslim Woman Sold by India's Right Wing"
+		},
+		{
+			"name": "W. Kamau Bell",
+			"desc": "There's So Much More To Say About Bill Cosby"
+		},
+		{
+			"name": "Robert J. Davis",
+			"desc": "Why You Shouldn't Exercise to Lose Weight"
+		},
+		{
+			"name": "Christine Bu",
+			"desc": "What Norway Can Teach the World About Switching to Electric Vehicles"
+		}
+		]
+}
